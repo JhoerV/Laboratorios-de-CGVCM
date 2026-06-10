@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 
 # Rutas de las imágenes redimensionadas
 
-img1_path = Path("redimensionadas_lab08/ciudad_redimensionada.png")
-img2_path = Path("redimensionadas_lab08/KNY_redimensionada.png")
-img3_path = Path("redimensionadas_lab08/wallpaper_redimensionada.png")
+img1_path = Path("redimensionadas_lab07/ciudad_redimensionada.png")
+img2_path = Path("redimensionadas_lab07/KNY_redimensionada.png")
+img3_path = Path("redimensionadas_lab07/wallpaper_redimensionada.png")
 
 # Cargar imágenes y asegurar formato RGB
 
