@@ -1,3 +1,4 @@
+# Se realizo cada ejecución en GoogleColab
 # ============================================================
 # LABORATORIO 09
 # Clasificación y Reconocimiento de Objetos con YOLOv8
